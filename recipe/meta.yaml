@@ -1,5 +1,5 @@
 {% set name = "mpl-sphinx-theme" %}
-{% set version = "3.7.0" %}
+{% set version = "3.7.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mpl_sphinx_theme-{{ version }}.tar.gz
-  sha256: aa450a22c7dabf160527d8dd7bdb5b001c8c9828a37d4925e556229b4062e4e5
+  sha256: 0b3c6d04f2090c1f60c4dd8efb92a6a17398ff865d88336ec6e797553eb867cd
 
 build:
   noarch: python
