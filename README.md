@@ -1,11 +1,11 @@
-About mpl-sphinx-theme
-======================
+About mpl-sphinx-theme-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mpl-sphinx-theme-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/matplotlib/mpl-sphinx-theme
 
 Package license: LicenseRef-PSF-based
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mpl-sphinx-theme-feedstock/blob/main/LICENSE.txt)
 
 Summary: Matplotlib theme for Sphinx
 
